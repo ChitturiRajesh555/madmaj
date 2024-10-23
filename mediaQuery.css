@@ -30,6 +30,12 @@
       padding: 0px;
       display: block;
     }
+   figure{
+      padding-left: 30px;
+    }
+    .figure i{
+      font-size: 3px;
+    }
     .line{
       width: 300px;
     }
