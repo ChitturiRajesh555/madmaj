@@ -26,15 +26,16 @@
     .imag-2{
       display: none;
     }
-    .fig{
-      padding: 0px;
-      display: block;
-    }
-   figure{
+     figure{
       padding-left: 30px;
     }
     .figure i{
       font-size: 3px;
+    }
+    .fig{
+      padding: 0px;
+      display: block;
+    }
     }
     .line{
       width: 300px;
