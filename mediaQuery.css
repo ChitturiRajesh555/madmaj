@@ -55,6 +55,15 @@
       margin-left: 10px;
       margin-right: 10px;
     }
+    .card span{
+      margin-right: 10px;
+    }    
+    .cf{
+      font-size: 2px;
+    }
+    .cf i{
+      font-size: 6px;
+    }
     .keyfea{
       margin-top: 20px;
       display: block;
