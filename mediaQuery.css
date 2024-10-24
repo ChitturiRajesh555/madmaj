@@ -1,8 +1,6 @@
-@media only screen and (max-width: 480px){
+@media only screen and (max-width: 383px){
    #naav{
-    padding: 0px;
-    color: white;
-    display: block;
+    display: none;
    } 
    .hea{
       padding: 0px;
@@ -26,22 +24,21 @@
     .imag-2{
       display: none;
     }
-     figure{
-      padding-left: 30px;
-    }
-    .figure i{
-      font-size: 3px;
-    }
     .fig{
       padding: 0px;
       display: block;
     }
+    figure{
+      padding-left: 0px;
+    }
+    .figure i{
+      font-size: 2px;
     }
     .line{
       width: 300px;
     }
     .imgg img{
-      margin-left: 20px;
+      margin-left: 10px;
     }
     .explore{
       padding:5px;
@@ -52,8 +49,8 @@
       width: auto;
     }
     .butons button{
-      margin-left: 10px;
-      margin-right: 10px;
+      margin-left: 0px;
+      margin-right: 0px;
     }
     .card span{
       margin-right: 10px;
@@ -69,16 +66,24 @@
       display: block;
     }
     .features{
-      width: 350px;
+      width: 280px;
     }
     .moveimg{
-      margin-left: 330px;
+      margin-left: 260px;
+      width:60px ;
     }
     .industries{
       padding-left: 10px;
     }
     .partnering{
       margin-top:20px;
+    }
+    .partnering img{
+      width: 50px;
+      margin: 5px;
+    }
+    .partnering .aws{
+      width: 10px;
     }
     .colap{
       display: block;
@@ -104,14 +109,14 @@
       padding: 10px;
     }
     .enterprise img{
-      width: 350px;
+      width: 320px;
     }
     .assistance{
       padding: 10px;
     }
     .assistance img{
       margin: 10px;
-      width: 350px;
+      width: 320px;
       height: 200px;
     }
     .supdiv{
@@ -131,8 +136,8 @@
       display: block;
    }
    .community img{
-      margin-left: 20px;
-      width: 200px;
+      margin-left: 10px;
+      width: 100px;
    }
    .har{
       display: block;
@@ -145,6 +150,9 @@
    }
    .sepfoot{
       display: block;
+   }
+   .sepfoot i{
+    font-size: 15px;
    }
    .he5{
       display: block;
